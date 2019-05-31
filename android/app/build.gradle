@@ -111,7 +111,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.reactnativebase"
+        applicationId "com.targetapprn"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "RNN.reactNativeVersion", "reactNative57_5"

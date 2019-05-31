@@ -1,4 +1,4 @@
-package com.reactnativebase;
+package com.targetapprn;
 
 import com.reactnativenavigation.NavigationActivity;
 
